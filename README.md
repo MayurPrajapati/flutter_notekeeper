@@ -1,8 +1,14 @@
-# Notekeeper application built with Flutter
+# Notekeeper
 
-A new Flutter project.
+ Notekeeper app built with Firebase + Flutter
 
-## Getting Started
--
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+**Features:**
+  - Animation
+  - Staggered List View
+  - Rich Text
+  - Reminders
+  - Firebase Authentication
+
+## Demo
+
+<img src="https://github.com/MayurPrajapati/flutter_notekeeper/blob/main/demo.gif" width="160"/>
